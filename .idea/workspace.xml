@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="622688e3-0c6f-4e05-ae72-205964cee132" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1QyGqDf8uMfb8GUFbgtwEYyCxqz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\Ekzamen\ekz\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="622688e3-0c6f-4e05-ae72-205964cee132" name="Default Changelist" comment="" />
+      <created>1568735610225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568735610225</updated>
+      <workItem from="1568735612818" duration="9815000" />
+      <workItem from="1568754097395" duration="811000" />
+      <workItem from="1569018896295" duration="345000" />
+      <workItem from="1569087426197" duration="3122000" />
+      <workItem from="1569269682609" duration="78000" />
+      <workItem from="1569348599558" duration="9528000" />
+      <workItem from="1569358236864" duration="1311000" />
+      <workItem from="1569424214366" duration="166000" />
+      <workItem from="1569658005916" duration="12761000" />
+      <workItem from="1570115101836" duration="1454000" />
+      <workItem from="1570124605304" duration="509000" />
+      <workItem from="1570644429112" duration="1228000" />
+      <workItem from="1570656697311" duration="598000" />
+      <workItem from="1570728016063" duration="5529000" />
+      <workItem from="1570814612513" duration="1489000" />
+      <workItem from="1570899783152" duration="159000" />
+      <workItem from="1570990105123" duration="1202000" />
+      <workItem from="1571240391207" duration="4640000" />
+      <workItem from="1571425978557" duration="269000" />
+      <workItem from="1571565788094" duration="239000" />
+      <workItem from="1572802905454" duration="579000" />
+      <workItem from="1572886402603" duration="6837000" />
+      <workItem from="1572975966958" duration="595000" />
+      <workItem from="1574369711205" duration="600000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
