@@ -9,8 +9,8 @@ let initialState = {
     startValue: 0,
     maxValue: 3,
     currentValue: 0,
-    isShowHide: 'true'
-}
+    isShowHide: true
+};
 
 const reducer = (state = initialState, action) => {
     switch (action.type) {
@@ -56,7 +56,7 @@ const reducer = (state = initialState, action) => {
             return state
     }
 
-}
+};
 
 export const onPlusValue = () => ({type: SET_PLUS_VALUE});
 export const onReset = () => ({type: SET_RESET});
